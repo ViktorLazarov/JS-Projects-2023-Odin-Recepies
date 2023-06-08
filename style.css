@@ -1,11 +1,8 @@
-#pasta-image {
+.recipe-img {
     border-radius: 20px;
     height: 200px;
 }
-#ramen-broccoli-img {
-    border-radius: 20px;
-    height: 200px;
-}
+
 
 a {
     display: block;
