@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.pasta-image {
+    border-radius: 50px;
+    height: 200px;
+}
